@@ -1,0 +1,40 @@
+.navbar-li{
+	display: inline-block;
+	margin-left: 20px;
+	color: blue;
+}
+nav{
+	display: inline-block;
+}
+
+}
+ul,li{
+	list-style: none;
+}
+a{
+	color: red;
+}
+h3{
+	margin-left: 50px;
+}
+div{
+	display: inline-block;
+	margin-left: 50px;
+}
+p{
+	display: block;
+}
+.box{
+	background: blue;
+	display: inline-block;
+	width: 500px;
+}
+.text{
+	display: inline-block;
+	width: 200px;
+}
+span{
+	margin-left: 10px;
+}
+
+    
